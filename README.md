@@ -31,7 +31,7 @@ The research problem is the communication of long-term global temperature change
 
 Literature context, research gap, exploratory choices, and evaluation of the visual narrative are aligned with the internship report submitted for the course.
 
-**Repository URL:** [https://github.com/NpAvgust/Pre-print-31.03.2026](https://github.com/NpAvgust/Pre-print-31.03.2026)
+
 
 ---
 

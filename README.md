@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/500f3ce0-5fa6-4158-9e11-0f624e20f879" width="150" />
+</p>
+
 # Industrial Internship Report.
 
 **Author:** Avgustin Chynarbekov  
@@ -76,7 +80,8 @@ A revision record links each major comment to the change made in the manuscript 
 
 ## Journal or conference channel
 
-The manuscript has been submitted to PLOS Climate for journal consideration. Submission evidence (confirmation and the current status in the PLOS submission system) is kept with the official internship dossier alongside this repository.
+The manuscript has been submitted to PLOS Climate for journal consideration. Submission evidence (confirmation and the current status in the PLOS submission system) is kept with the official internship dossier alongside this repository. 
+https://plos.org/ https://www.ariessys.com/
 
 ---
 
